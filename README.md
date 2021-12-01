@@ -12,3 +12,8 @@
           2. unstructured data files (text files etc)
           3. external databases (mysql, postgres etc)
           4. existing RDDs 
+## Spark Streaming
+
+## ETL
+
+## Colaborative Filtering (Movie recommendation)
